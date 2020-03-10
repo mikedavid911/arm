@@ -1,8 +1,8 @@
 {
   "arch": "arm",
-  "date": "20200304",
+  "date": "20200309",
   "assets": [
-    { "build": "BiTGApps-arm-9.0.0-R1_signed.zip", "md5sum": ["BiTGApps-arm-9.0.0-R1_signed.md5"]},
-    { "build": "BiTGApps-arm-10.0.0-R1_signed.zip", "md5sum": ["BiTGApps-arm-10.0.0-R1_signed.md5"]}
+    { "build": "BiTGApps-arm-9.0.0-R2_signed.zip", "md5sum": ["BiTGApps-arm-9.0.0-R2_signed.md5"]},
+    { "build": "BiTGApps-arm-10.0.0-R2_signed.zip", "md5sum": ["BiTGApps-arm-10.0.0-R2_signed.md5"]}
   ]
 }
