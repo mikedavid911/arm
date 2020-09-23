@@ -1,11 +1,11 @@
 {
   "arch": "arm",
-  "date": "20200914",
+  "date": "20200923",
   "assets": [
-    { "build": "BiTGApps-arm-7.1.2-R16_signed.zip", "md5sum": ["BiTGApps-arm-7.1.2-R16_signed.md5"]},
-    { "build": "BiTGApps-arm-8.1.0-R16_signed.zip", "md5sum": ["BiTGApps-arm-8.1.0-R16_signed.md5"]},
-    { "build": "BiTGApps-arm-9.0.0-R16_signed.zip", "md5sum": ["BiTGApps-arm-9.0.0-R16_signed.md5"]},
-    { "build": "BiTGApps-arm-10.0.0-R16_signed.zip", "md5sum": ["BiTGApps-arm-10.0.0-R16_signed.md5"]},
-    { "build": "BiTGApps-arm-11.0.0-R16_signed.zip", "md5sum": ["BiTGApps-arm-11.0.0-R16_signed.md5"]}
+    { "build": "BiTGApps-arm-7.1.2-R17_signed.zip", "md5sum": ["BiTGApps-arm-7.1.2-R17_signed.md5"]},
+    { "build": "BiTGApps-arm-8.1.0-R17_signed.zip", "md5sum": ["BiTGApps-arm-8.1.0-R17_signed.md5"]},
+    { "build": "BiTGApps-arm-9.0.0-R17_signed.zip", "md5sum": ["BiTGApps-arm-9.0.0-R17_signed.md5"]},
+    { "build": "BiTGApps-arm-10.0.0-R17_signed.zip", "md5sum": ["BiTGApps-arm-10.0.0-R17_signed.md5"]},
+    { "build": "BiTGApps-arm-11.0.0-R17_signed.zip", "md5sum": ["BiTGApps-arm-11.0.0-R17_signed.md5"]}
   ]
 }
